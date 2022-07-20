@@ -9,3 +9,4 @@
 - [Persistent Bugger](https://www.codewars.com/kata/55bf01e5a717a0d57e0000ec)
 - [Sum of odd numbers](https://www.codewars.com/kata/55fd2d567d94ac3bc9000064)
 - [Break camelCase](https://www.codewars.com/kata/5208f99aee097e6552000148)
+- [Who likes it?](https://www.codewars.com/kata/5266876b8f4bf2da9b000362)
