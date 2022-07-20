@@ -10,3 +10,5 @@
 - [Sum of odd numbers](https://www.codewars.com/kata/55fd2d567d94ac3bc9000064)
 - [Break camelCase](https://www.codewars.com/kata/5208f99aee097e6552000148)
 - [Who likes it?](https://www.codewars.com/kata/5266876b8f4bf2da9b000362)
+- [Human Readable Time](https://www.codewars.com/kata/52685f7382004e774f0001f7)
+- [Replace With Alphabet Position](https://www.codewars.com/kata/546f922b54af40e1e90001da)
