@@ -12,3 +12,4 @@
 - [Who likes it?](https://www.codewars.com/kata/5266876b8f4bf2da9b000362)
 - [Human Readable Time](https://www.codewars.com/kata/52685f7382004e774f0001f7)
 - [Replace With Alphabet Position](https://www.codewars.com/kata/546f922b54af40e1e90001da)
+- [Product of consecutive Fib numbers](https://www.codewars.com/kata/5541f58a944b85ce6d00006a)
