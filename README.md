@@ -13,3 +13,4 @@
 - [Human Readable Time](https://www.codewars.com/kata/52685f7382004e774f0001f7)
 - [Replace With Alphabet Position](https://www.codewars.com/kata/546f922b54af40e1e90001da)
 - [Product of consecutive Fib numbers](https://www.codewars.com/kata/5541f58a944b85ce6d00006a)
+- [Strip Comments](https://www.codewars.com/kata/51c8e37cee245da6b40000bd)
