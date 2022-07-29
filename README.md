@@ -17,4 +17,9 @@
 - [Adding Big Numbers](https://www.codewars.com/kata/525f4206b73515bffb000b21)
 - [Not very secure](https://www.codewars.com/kata/526dbd6c8c0eb53254000110)
 
+
 ## [Leetcode](https://leetcode.com/) Challenges
+
+- [Contiguous Array](https://leetcode.com/problems/contiguous-array/)
+- [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)
+- [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/)
