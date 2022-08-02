@@ -29,3 +29,5 @@
 - [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)
 - [876. Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)
 - [142. Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)
+- [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
+- [409. Longest Palindrome](https://leetcode.com/problems/longest-palindrome/)
