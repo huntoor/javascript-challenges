@@ -31,3 +31,7 @@
 - [142. Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)
 - [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
 - [409. Longest Palindrome](https://leetcode.com/problems/longest-palindrome/)
+- [589. N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/)
+- [102. Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)
+- [704. Binary Search](https://leetcode.com/problems/binary-search/)
+- [278. First Bad Version](https://leetcode.com/problems/first-bad-version/)
