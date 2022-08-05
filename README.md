@@ -35,3 +35,5 @@
 - [102. Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)
 - [704. Binary Search](https://leetcode.com/problems/binary-search/)
 - [278. First Bad Version](https://leetcode.com/problems/first-bad-version/)
+- [98. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)
+- [235. Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)
