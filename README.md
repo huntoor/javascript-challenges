@@ -16,6 +16,7 @@
 - [Strip Comments](https://www.codewars.com/kata/51c8e37cee245da6b40000bd)
 - [Adding Big Numbers](https://www.codewars.com/kata/525f4206b73515bffb000b21)
 - [Not very secure](https://www.codewars.com/kata/526dbd6c8c0eb53254000110)
+- [Memoized Fibonacci](https://www.codewars.com/kata/529adbf7533b761c560004e5)
 
 
 ## [Leetcode](https://leetcode.com/) Challenges
